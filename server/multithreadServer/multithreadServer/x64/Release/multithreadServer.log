@@ -1,0 +1,33 @@
+﻿生成启动时间为 2017/12/27/周三 16:00:50。
+     1>项目“C:\Users\Administrator\Desktop\server\multithreadServer\multithreadServer\multithreadServer.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Release\multithreadServer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         所有输出均为最新。
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"C:\Qt\qt-4.8.7-x64-msvc2010\qt-4.8.7-x64-msvc2010\include" /I.\GeneratedFiles\Release /I"C:\Qt\qt-4.8.7-x64-msvc2010\qt-4.8.7-x64-msvc2010\include\QtCore" /I"C:\Qt\qt-4.8.7-x64-msvc2010\qt-4.8.7-x64-msvc2010\include\QtGui" /I"C:\Qt\qt-4.8.7-x64-msvc2010\qt-4.8.7-x64-msvc2010\include\QtNetwork" /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt processor.cpp
+         processor.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\server\multithreadServer\x64\Release\\multithreadServer.exe" /NOLOGO /LIBPATH:"C:\Qt\qt-4.8.7-x64-msvc2010\qt-4.8.7-x64-msvc2010\lib" qtmain.lib QtCore4.lib QtGui4.lib QtNetwork4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\multithreadServer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\server\multithreadServer\x64\Release\multithreadServer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\server\multithreadServer\x64\Release\multithreadServer.lib" /MACHINE:X64 x64\Release\qrc_mainwindow.obj
+         x64\Release\moc_mainwindow.obj
+         x64\Release\moc_processor.obj
+         x64\Release\moc_socketthread.obj
+         x64\Release\moc_tcpserver.obj
+         x64\Release\main.obj
+         x64\Release\mainwindow.obj
+         x64\Release\processor.obj
+         x64\Release\socketthread.obj
+         x64\Release\tcpserver.obj
+         LINK : 没有找到 C:\Users\Administrator\Desktop\server\multithreadServer\x64\Release\\multithreadServer.exe 或上一个增量链接没有生成它；正在执行完全链接
+         multithreadServer.vcxproj -> C:\Users\Administrator\Desktop\server\multithreadServer\x64\Release\multithreadServer.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrator\Desktop\server\multithreadServer\x64\Release\\multithreadServer.exe;#1" /manifest x64\Release\multithreadServer.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“x64\Release\multithreadServer.unsuccessfulbuild”。
+         正在对“x64\Release\multithreadServer.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\server\multithreadServer\multithreadServer\multithreadServer.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.83
