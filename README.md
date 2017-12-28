@@ -5,7 +5,7 @@
   
   The server will display what it receives from the client on the Texteditor and send "received" to the client
   
-  The mutithread server enables different clients connected to it and it processes the data in different thread
+  The mutithread server enables different clients connected to it and it processes the data in different threads
   
   This demo is simple and if users would like to build a robust server with multithread, they should change the framework of this demo and add more complex functions
  
