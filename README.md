@@ -7,5 +7,5 @@
   
   The mutithread server enables different clients connected to it and it processes the data in different threads
   
-  This demo is simple and if users would like to build a robust server with multithread, they should change the framework of this demo and add more complex functions
+  This demo is simple and if users would like to build a robust server with multithreads, they should change the framework of this demo and add more complex functions
  
